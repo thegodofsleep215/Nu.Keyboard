@@ -1,4 +1,7 @@
 # Motivation
-## Learning How
 ## Left Handed Gaming Options
+As a lefty I use IJLK instead of WASD. There are more buttons for the pinky on right side of the keyboard. As I used them more nad more I started to get a strain injur in my forearm. Instead of doing the sensible thing of remapping keys to use my pinky less. I stared at the space bar in disgust. I use my thumb a lot when I use a controller, why not when on a keyboard? The original idea was not to make a keyboard, but instead a gaming a device that had enough keys for one had to reach without moving. Somthing like the 'Razer Nostromo,' with no stick and more buttons.
 ## Programmer
+As I started to lay out the design it occurred to me it would be simple enough to mirror what I was making and make a keyboard. I'd only put the keys I used and lop off the number pad to make it nice and compact. Since I'm going for a "don't move your hand" approach for gaming why not for programming/typing as well. I use VIM or a VIM plug in for most all work, but that doesn't always exist. Since I'll be using my thumb more for gaming, why not programming as well?
+## Learning How
+After I had a layout I liked I started to search around for tutorials. That's when I ran across the 'ErgoDox.' An ergnomical keybaord that had the same why-is-the-space-bar-so-big inspiration. As I already had the itch to do it myself I decided it would be best just to make my own. I've not really played with Arduinos and this seems like a great excuse. The project is both useful and educational!
