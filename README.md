@@ -7,6 +7,8 @@ The purpose of this repo is to document and provide my experience in making a me
 4. [Wiring](Wiring/README.md)
 5. [Firmware Programming](Firmware/README.md)
 
+![Mostly Finished Keyboard](./keyboard.jpg)
+
 # References
 Some of the reference I used.
 ## General
