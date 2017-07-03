@@ -15,3 +15,5 @@ Since some of the keys haved moved under the thumb. I filled in some missing key
 # Key Caps
 ## Parametric Key Caps and Unconventional Key Locations
 I primarily use a 'DAS Keyboard' which has parametric keycaps. I though I'd play with this a bit since I put some keys in unconventional locations. My new row has a very short key cap new row to make it easier to avoid fat finger it. I'd also make caps lock and print screen shorter than the keys around them for the same reason. The spacebar row also got keys angled for the number row, since I didn't want my fingers to hit them as easily.
+
+![Side view of key caps.](./side_view.jpg)
