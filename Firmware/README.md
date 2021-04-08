@@ -13,14 +13,14 @@ This program tests each button individually. It iterates over each row for each 
 
 
 Some simplified pseudo-code:
-Select Column
-    Read Column
-    Deselect Column
-    Select Row
-        Read Row
-        Toggle Press/Depress as needed
-        Deselct Row
-Set Modifiers
-Toggle LEDs
-Send to Computer
+* Select Column
+**    Read Column
+**    Deselect Column
+**    Select Row
+***        Read Row
+***        Toggle Press/Depress as needed
+***        Deselct Row
+* Set Modifiers
+* Toggle LEDs
+* Send to Computer
 
